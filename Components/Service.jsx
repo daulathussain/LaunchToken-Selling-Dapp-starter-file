@@ -28,7 +28,7 @@ const Service = () => {
     }
   ];
   return (
-    <section id="service" className="small_pb">
+    <section id="services" className="small_pb">
       <div className="container">
         <div className="row align-items-center">
           <div className="col-lg-8 offset-lg-2 col-md-12 col-sm-12">

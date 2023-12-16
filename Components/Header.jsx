@@ -62,7 +62,7 @@ const Header = ({address, setAddress, connectWallet}) => {
                   className="animation"
                   data-animation="fadeinDown" data-animation-delay={`1.${i+1}s`}
                   >
-                    <a href={menu.link} className="nav-link">
+                    <a href={menu.Link} className="nav-link">
                       {menu.menu}
                     </a>
                   </li>
