@@ -15,7 +15,7 @@ Our step-by-step guide covers everything from the fundamentals of blockchain and
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
 
-- [Final Source Code](https://www.theblockchaincoders.com/template/launch-ico-erc20-token-selling-dapp)
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/launch-ico-erc20-token-selling-dapp)
 
 #### Setup Video
 - [Final Code Setup video](https://youtu.be/7y1sDo7DEU0?si=qriRcGjGAeA8X5RK)
